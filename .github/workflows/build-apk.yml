@@ -43,6 +43,10 @@ jobs:
           distribution: 'zulu'
           java-version: '21'
 
+      - name: Fix Gradle Wrapper JAR
+        run: |
+          curl -Lo android/gradle/wrapper/gradle-wrapper.jar https://raw.githubusercontent.com/gradle/gradle/v8.14.3/gradle/wrapper/gradle-wrapper.jar
+
       - name: Build APK with Gradle
         run: |
           cd android
