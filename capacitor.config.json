@@ -1,0 +1,8 @@
+{
+  "appId": "com.salveme.app",
+  "appName": "Salve-me",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

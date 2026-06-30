@@ -1,0 +1,6 @@
+{
+  "name": "Salva-me",
+  "description": "Aplicativo moderno de segurança pessoal com botão de pânico, localização em tempo real, chamadas simuladas e assistente de IA.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,770 @@
+{
+  "situations": [
+    {
+      "id": "3c21bc82-1f70-4ea5-b072-34782a7ebfbb",
+      "contexto": "Social",
+      "trigger": "Era só uma piada",
+      "educadora": "Piadas também têm impacto real nas pessoas. O humor pode perpetuar estereótipos prejudiciais.",
+      "sarcastica": "Sim, hilariante... Já consideraste stand-up comedy? O público adora piadas à custa dos outros.",
+      "assertiva": "Não achei piada nenhuma. Peço que não repitas.",
+      "sem_filtro": "Se isso é humor, está fraco. Arranja material novo.",
+      "seguranca": "Média",
+      "notas": "Resposta comum para minimizar comentários ofensivos.",
+      "tags": [
+        "humor",
+        "fronteiras",
+        "respeito"
+      ]
+    },
+    {
+      "id": "cd95da1c-3bb3-4a59-9685-00365a3a6521",
+      "contexto": "Profissional",
+      "trigger": "Interrupção constante",
+      "educadora": "Gostava de terminar o meu raciocínio antes de receber contribuições. A comunicação é mais eficaz assim.",
+      "sarcastica": "Prometo que no fim também aceito comentários. Paciência é uma virtude.",
+      "assertiva": "Ainda não terminei. Deixa-me concluir, por favor.",
+      "sem_filtro": "Se me deixares falar talvez consigas acompanhar o raciocínio.",
+      "seguranca": "Alta",
+      "notas": "Comum em reuniões quando mulheres são interrompidas.",
+      "tags": [
+        "reunião",
+        "comunicação",
+        "respeito"
+      ]
+    },
+    {
+      "id": "708c3223-24ef-4532-88d5-3fdaf50e66c6",
+      "contexto": "Profissional",
+      "trigger": "Mansplaining",
+      "educadora": "Agradeço a intenção, mas já tenho conhecimento nesta área. Posso contribuir com a minha perspectiva?",
+      "sarcastica": "Uau, que revelação! Nunca tinha ouvido falar disso nos meus 10 anos de experiência.",
+      "assertiva": "Sei do que estou a falar. Não preciso de explicação.",
+      "sem_filtro": "Guarda a aula para quem precisa. Eu não preciso.",
+      "seguranca": "Alta",
+      "notas": "Quando um homem explica algo a uma mulher de forma condescendente.",
+      "tags": [
+        "condenscendência",
+        "carreira",
+        "fronteiras"
+      ]
+    },
+    {
+      "id": "281b8adc-a04f-45e5-9a1d-315d4a3c4de5",
+      "contexto": "Profissional",
+      "trigger": "Roubo de ideias",
+      "educadora": "Fico feliz que a minha sugestão tenha ressonado. Gostava de desenvolver mais essa ideia que apresentei.",
+      "sarcastica": "Que bom ouvir a minha ideia novamente! Agora com a voz de outra pessoa.",
+      "assertiva": "Essa foi a minha sugestão. Agradeço o reconhecimento da autoria.",
+      "sem_filtro": "Essa ideia é minha. Acabaste de a repetir.",
+      "seguranca": "Alta",
+      "notas": "Quando alguém se apropria de uma ideia que apresentaste.",
+      "tags": [
+        "autoria",
+        "reunião",
+        "carreira"
+      ]
+    },
+    {
+      "id": "4f42a75e-ee9e-4e43-a207-ac5998cb9cfc",
+      "contexto": "Profissional",
+      "trigger": "Tens namorado?",
+      "educadora": "A minha vida pessoal não é relevante para o contexto profissional em que estamos.",
+      "sarcastica": "Isso vem no próximo relatório trimestral. Fica atento.",
+      "assertiva": "Isso não é assunto de trabalho. Voltemos ao tema.",
+      "sem_filtro": "Isso não te diz respeito. Foco no trabalho.",
+      "seguranca": "Alta",
+      "notas": "Pergunta inapropriada em contexto profissional.",
+      "tags": [
+        "privacidade",
+        "fronteiras",
+        "trabalho"
+      ]
+    },
+    {
+      "id": "dcd841ed-b1f4-4abc-a289-91c2e7d8b15c",
+      "contexto": "Social",
+      "trigger": "És muito sensível",
+      "educadora": "Reconhecer problemas não é sensibilidade excessiva. É atenção ao que importa.",
+      "sarcastica": "Obrigada! A sensibilidade é uma qualidade. Pena nem todos a terem.",
+      "assertiva": "Não sou sensível. Estou a ser clara sobre o que não aceito.",
+      "sem_filtro": "Não sou sensível. Tu é que és insensível.",
+      "seguranca": "Média",
+      "notas": "Usado para invalidar emoções e preocupações legítimas.",
+      "tags": [
+        "respeito",
+        "fronteiras",
+        "empatia"
+      ]
+    },
+    {
+      "id": "3b776151-de94-478c-b33e-888c0fe9ce25",
+      "contexto": "Social",
+      "trigger": "Devias sorrir mais",
+      "educadora": "O meu rosto não está aqui para decoração. Sorrio quando tenho motivo.",
+      "sarcastica": "Claro! Deixa-me só ativar o modo 'mulher decorativa'. Já está?",
+      "assertiva": "Sorrio quando quero. Não deves comentar a minha expressão.",
+      "sem_filtro": "E tu devias falar menos. Mas cá estamos.",
+      "seguranca": "Média",
+      "notas": "Expectativa de que mulheres devem parecer sempre agradáveis.",
+      "tags": [
+        "expressão",
+        "autonomia",
+        "estilo"
+      ]
+    },
+    {
+      "id": "735bd39e-b28d-47bd-acba-e122290829ab",
+      "contexto": "Social",
+      "trigger": "Não pareces lésbica",
+      "educadora": "A orientação sexual não tem uma 'aparência'. Os estereótipos limitam a compreensão.",
+      "sarcastica": "Ah, peço desculpa! Deixei a farda em casa hoje.",
+      "assertiva": "Não há uma aparência para orientações sexuais. O comentário é inadequado.",
+      "sem_filtro": "E tu não pareces ignorante, mas olha...",
+      "seguranca": "Média",
+      "notas": "Estereótipo sobre aparência e orientação sexual.",
+      "tags": [
+        "sexualidade",
+        "respeito",
+        "identidade"
+      ]
+    },
+    {
+      "id": "cf76dbfb-077f-4420-9511-56b05d23b744",
+      "contexto": "Street",
+      "trigger": "Catcalling",
+      "educadora": "Comentários sobre o corpo de estranhas na rua são intimidantes, não elogios.",
+      "sarcastica": "Impressionante técnica de comunicação. As mulheres devem adorar.",
+      "assertiva": "Não comentes o meu corpo. Continua o teu caminho.",
+      "sem_filtro": "Cala-te e segue.",
+      "seguranca": "Baixa",
+      "notas": "Assédio verbal em espaços públicos. Prioriza a tua segurança.",
+      "tags": [
+        "assédio",
+        "rua",
+        "segurança"
+      ]
+    },
+    {
+      "id": "89337414-4d5b-405d-8b34-7b1f09597a8c",
+      "contexto": "Street",
+      "trigger": "Dá-me o teu número",
+      "educadora": "Não dou o meu contacto a desconhecidos. Respeita a minha privacidade.",
+      "sarcastica": "Claro! É o 0800-NAO-OBRIGADO.",
+      "assertiva": "Não. E não vou mudar de ideias.",
+      "sem_filtro": "Não. Afasta-te.",
+      "seguranca": "Baixa",
+      "notas": "Pressão para dar informação pessoal a estranhos.",
+      "tags": [
+        "privacidade",
+        "fronteiras",
+        "rejeição"
+      ]
+    },
+    {
+      "id": "f1ae8582-8bd4-4fdb-8518-685123b13045",
+      "contexto": "Social",
+      "trigger": "Para mulher até percebes",
+      "educadora": "O género não determina capacidade intelectual. Esse tipo de comentário perpetua mitos.",
+      "sarcastica": "Incrível, não é? É quase como se mulheres também tivessem cérebro!",
+      "assertiva": "Percebo porque estudei. Não tem nada a ver com género.",
+      "sem_filtro": "Percebo mais do que tu, claramente.",
+      "seguranca": "Média",
+      "notas": "Elogio backhanded que implica que mulheres são menos capazes.",
+      "tags": [
+        "preconceito",
+        "capacidade",
+        "respeito"
+      ]
+    },
+    {
+      "id": "d5aac3a8-1752-4fd8-89fd-fc375e0f2396",
+      "contexto": "Profissional",
+      "trigger": "És agressiva",
+      "educadora": "Assertividade em mulheres é frequentemente confundida com agressividade. Estou apenas a ser direta.",
+      "sarcastica": "Engraçado, nos homens chamam a isto 'liderança forte'.",
+      "assertiva": "Não sou agressiva. Sou assertiva. Há diferença.",
+      "sem_filtro": "Se achas isto agressivo, não me conheces mesmo.",
+      "seguranca": "Alta",
+      "notas": "Duplo padrão: homens são 'assertivos', mulheres são 'agressivas'.",
+      "tags": [
+        "liderança",
+        "estilo",
+        "carreira"
+      ]
+    },
+    {
+      "id": "c304cb8e-7cf5-4a3b-ade9-369816c29950",
+      "contexto": "Social",
+      "trigger": "Quando vais ter filhos?",
+      "educadora": "Decisões sobre maternidade são pessoais e não definem o valor de uma mulher.",
+      "sarcastica": "Não sei, está no horóscopo de amanhã. Fico atenta.",
+      "assertiva": "Isso é uma decisão privada minha. Não vou discutir.",
+      "sem_filtro": "Quando tu deixares de fazer perguntas inconvenientes.",
+      "seguranca": "Média",
+      "notas": "Pressão social sobre maternidade.",
+      "tags": [
+        "maternidade",
+        "família",
+        "privacidade"
+      ]
+    },
+    {
+      "id": "920e9c47-4911-4c48-ba7a-1c0afab2a635",
+      "contexto": "Profissional",
+      "trigger": "Estás naqueles dias?",
+      "educadora": "O ciclo menstrual não invalida emoções ou opiniões profissionais. É uma pergunta inapropriada.",
+      "sarcastica": "Não, estou naquele dia em que não tolero comentários destes.",
+      "assertiva": "Isso é irrelevante e impróprio. Não repitas.",
+      "sem_filtro": "Isso não te diz respeito. Nunca.",
+      "seguranca": "Alta",
+      "notas": "Usado para desvalorizar opiniões de mulheres no trabalho.",
+      "tags": [
+        "preconceito",
+        "trabalho",
+        "fronteiras"
+      ]
+    },
+    {
+      "id": "6d769910-e4f8-4e5a-bc3e-32acfd906b59",
+      "contexto": "Social",
+      "trigger": "Vestida assim pedias",
+      "educadora": "Roupa nunca é consentimento. A responsabilidade de assédio é sempre de quem o comete.",
+      "sarcastica": "Ah sim, a minha roupa fala! Pediu ela, não eu.",
+      "assertiva": "Roupa não é convite. O comentário é inaceitável.",
+      "sem_filtro": "A culpa nunca é da vítima. Revê os teus valores.",
+      "seguranca": "Média",
+      "notas": "Culpabilização da vítima pelo vestuário.",
+      "tags": [
+        "respeito",
+        "consentimento",
+        "roupa"
+      ]
+    },
+    {
+      "id": "e19663a8-ecd2-4116-9d60-faec95c258b3",
+      "contexto": "Street",
+      "trigger": "Sorriso, linda",
+      "educadora": "Pedir que estranhas sorriam na rua é uma forma de controlo social.",
+      "sarcastica": "O meu rosto, as minhas regras. Próximo!",
+      "assertiva": "Não me conheces para me dar ordens. Segue em frente.",
+      "sem_filtro": "Não sou tua amiga. Passa.",
+      "seguranca": "Baixa",
+      "notas": "Assédio disfarçado de 'elogio' na rua.",
+      "tags": [
+        "assédio",
+        "rua",
+        "autonomia"
+      ]
+    },
+    {
+      "id": "3406a6c3-1842-4b18-9e5f-5dbcdb78cace",
+      "contexto": "Profissional",
+      "trigger": "Podes tirar as notas?",
+      "educadora": "Posso, mas gostava de participar activamente na discussão. Podemos rodar essa tarefa?",
+      "sarcastica": "Claro! E também posso fazer café e sorrir bonito, certo?",
+      "assertiva": "Prefiro participar na discussão. Alguém pode tirar notas desta vez?",
+      "sem_filtro": "Não sou secretária. Tira tu as notas.",
+      "seguranca": "Alta",
+      "notas": "Atribuição de tarefas administrativas por género.",
+      "tags": [
+        "trabalho",
+        "reunião",
+        "igualdade"
+      ]
+    },
+    {
+      "id": "a7ceb40f-965a-4cbf-a344-50adcd4faa0e",
+      "contexto": "Social",
+      "trigger": "Não sejas mal-educada",
+      "educadora": "Definir limites não é falta de educação. É autocuidado.",
+      "sarcastica": "Desculpa, a educação acabou quando o respeito também acabou.",
+      "assertiva": "Não estou a ser mal-educada. Estou a ser clara.",
+      "sem_filtro": "Mal-educado é ignorar quando alguém diz não.",
+      "seguranca": "Média",
+      "notes": "Usado para manipular mulheres a aceitar comportamentos inadequados.",
+      "tags": [
+        "fronteiras",
+        "respeito",
+        "manipulação"
+      ]
+    },
+    {
+      "id": "319cbb0b-1dbc-4321-862b-1a7e6d47f30b",
+      "contexto": "Street",
+      "trigger": "Andas sozinha?",
+      "educadora": "Mulheres têm direito a circular livremente. A pergunta é inapropriada.",
+      "sarcastica": "Não, o meu guarda-costas invisível está aqui.",
+      "assertiva": "Isso não te diz respeito. Com licença.",
+      "sem_filtro": "Afasta-te.",
+      "seguranca": "Baixa",
+      "notas": "Pode indicar intenções preocupantes. Prioriza a segurança.",
+      "tags": [
+        "assédio",
+        "segurança",
+        "rua"
+      ]
+    },
+    {
+      "id": "4b0a9f47-2b99-45f7-9b65-f3b3b7bb02d8",
+      "contexto": "Profissional",
+      "trigger": "Querida / Fofa",
+      "educadora": "Prefiro ser tratada pelo meu nome ou título profissional.",
+      "sarcastica": "É [Nome], na verdade. Está no crachá e no email.",
+      "assertiva": "O meu nome é [Nome]. Usa-o, por favor.",
+      "sem_filtro": "Não sou 'querida'. Trata-me pelo nome.",
+      "seguranca": "Alta",
+      "notas": "Diminutivos condescendentes em contexto profissional.",
+      "tags": [
+        "carreira",
+        "respeito",
+        "trabalho"
+      ]
+    },
+    {
+      "id": "f864f18a-21c9-40e2-bba1-a26fe8afe5f3",
+      "contexto": "Social",
+      "trigger": "És bonita demais para ser inteligente",
+      "educadora": "Aparência e inteligência não são mutuamente exclusivas. O comentário é redutor.",
+      "sarcastica": "Incrível! Consegui ter as duas coisas ao mesmo tempo!",
+      "assertiva": "Esse comentário é tão errado em tantos níveis.",
+      "sem_filtro": "E tu és rude demais para eu continuar esta conversa.",
+      "seguranca": "Média",
+      "notas": "Estereótipo de que beleza e inteligência não coexistem.",
+      "tags": [
+        "estereótipo",
+        "capacidade",
+        "respeito"
+      ]
+    },
+    {
+      "id": "6726b1cf-10d7-404a-b684-4eddb4f92bdc",
+      "contexto": "Profissional",
+      "trigger": "Chefe mulher é complicado",
+      "educadora": "Estudos mostram que equipas diversas são mais bem-sucedidas. O preconceito não tem base.",
+      "sarcastica": "É, ter competência é mesmo complicado para alguns.",
+      "assertiva": "Liderança não tem género. O comentário é preconceituoso.",
+      "sem_filtro": "Complicado é trabalhar com pessoas preconceituosas.",
+      "seguranca": "Alta",
+      "notas": "Preconceito contra liderança feminina.",
+      "tags": [
+        "liderança",
+        "carreira",
+        "preconceito"
+      ]
+    },
+    {
+      "id": "c40941dc-e984-4b4e-9434-3c803ef4c3a8",
+      "contexto": "Social",
+      "trigger": "Isso é coisa de homem",
+      "educadora": "Interesses e habilidades não têm género. Todos podem gostar do que quiserem.",
+      "sarcastica": "Deixa ver... não encontro aqui o manual que diz isso.",
+      "assertiva": "É coisa minha. E gosto muito.",
+      "sem_filtro": "É coisa de quem quer. E eu quero.",
+      "seguranca": "Média",
+      "notas": "Limitação de interesses baseada em género.",
+      "tags": [
+        "género",
+        "estilo",
+        "igualdade"
+      ]
+    },
+    {
+      "id": "aa2a4974-7f9a-4bc1-9842-532067e3f2ee",
+      "contexto": "Street",
+      "trigger": "Posso acompanhar-te?",
+      "educadora": "Não preciso de companhia. Agradeço mas recuso.",
+      "sarcastica": "Não, obrigada. Já tenho GPS.",
+      "assertiva": "Não. Prefiro ir sozinha.",
+      "sem_filtro": "Não. Afasta-te.",
+      "seguranca": "Baixa",
+      "notas": "Insistência de estranhos. Prioriza a sua segurança.",
+      "tags": [
+        "rua",
+        "fronteiras",
+        "segurança"
+      ]
+    },
+    {
+      "id": "05f88351-8860-46aa-aee4-b35bc0c477ea",
+      "contexto": "Social",
+      "trigger": "Relaxa / Acalma-te",
+      "educadora": "Dizer a alguém para se acalmar geralmente tem o efeito oposto e invalida as suas emoções.",
+      "sarcastica": "Ah, 'acalma-te', o botão mágico que resolve tudo!",
+      "assertiva": "Estou calma. E vou expressar o que penso.",
+      "sem_filtro": "Acalmo-me quando deixares de dizer disparates.",
+      "seguranca": "Média",
+      "notas": "Usado para silenciar e invalidar emoções.",
+      "tags": [
+        "fronteiras",
+        "respeito",
+        "comunicação"
+      ]
+    },
+    {
+      "id": "ec65a30a-1d43-4b87-9c2b-ecfe3aacabdb",
+      "contexto": "Profissional",
+      "trigger": "Pareces cansada",
+      "educadora": "Comentários sobre aparência física no trabalho são desnecessários. Como posso ajudar-te?",
+      "sarcastica": "É o look 'trabalhei muito enquanto outros comentavam'.",
+      "assertiva": "Não precisas de comentar a minha aparência. Estou bem.",
+      "sem_filtro": "Estou cansada de comentários sobre a minha cara.",
+      "seguranca": "Alta",
+      "notas": "Comentário não solicitado sobre aparência física.",
+      "tags": [
+        "carreira",
+        "trabalho",
+        "fronteiras"
+      ]
+    },
+    {
+      "id": "b7b470cd-e45d-4438-b605-bf90028368c6",
+      "contexto": "Social",
+      "trigger": "Não és como as outras",
+      "educadora": "Esse 'elogio' na verdade insulta todas as outras mulheres. Não é um cumprimento.",
+      "sarcastica": "Ah, o famoso 'elogio' que insulta metade da humanidade.",
+      "assertiva": "Não aceito elogios que rebaixam outras mulheres.",
+      "sem_filtro": "As 'outras' também não gostam de ti.",
+      "seguranca": "Média",
+      "notas": "Falso elogio que divide mulheres.",
+      "tags": [
+        "sororidade",
+        "respeito",
+        "estereótipo"
+      ]
+    },
+    {
+      "id": "42410c2e-d6b6-430d-984d-7ba05b31e78b",
+      "contexto": "Profissional",
+      "trigger": "Contrataram-te por quotas",
+      "educadora": "Fui contratada pelas minhas qualificações. Políticas de diversidade corrigem desigualdades históricas.",
+      "sarcastica": "Sim, a quota de competência. Muito exclusiva.",
+      "assertiva": "Fui contratada pelo meu mérito. O comentário é ofensivo.",
+      "sem_filtro": "E tu foste contratado porquê exatamente?",
+      "seguranca": "Alta",
+      "notas": "Minimização de competência de mulheres ou minorias.",
+      "tags": [
+        "carreira",
+        "mérito",
+        "preconceito"
+      ]
+    },
+    {
+      "id": "db51f89a-5c56-4815-ad12-d36951a325ec",
+      "contexto": "Street",
+      "trigger": "Onde moras?",
+      "educadora": "Não partilho informação pessoal com desconhecidos.",
+      "sarcastica": "Na Terra. E tu, de que planeta vieste?",
+      "assertiva": "Isso não te diz respeito. Com licença.",
+      "sem_filtro": "Longe de ti. Adeus.",
+      "seguranca": "Baixa",
+      "notas": "Nunca partilhes localização com estranhos. Prioriza a segurança-offline.",
+      "tags": [
+        "privacidade",
+        "segurança",
+        "rua"
+      ]
+    },
+    {
+      "id": "6c8704d3-f8ba-475a-af6a-5b33aa46bb81",
+      "contexto": "Social",
+      "trigger": "Gajas são todas iguais",
+      "educadora": "Generalizações sobre géneros são sempre erradas e prejudiciais.",
+      "sarcastica": "Claro, somos fabricadas na mesma fábrica. Saímos por encomenda.",
+      "assertiva": "Generalizações são ignorantes. Não vou aceitar isso.",
+      "sem_filtro": "E vocês nunca mudam de conversa fiada.",
+      "seguranca": "Média",
+      "notas": "Generalização sexista comum.",
+      "tags": [
+        "sexismo",
+        "respeito",
+        "estereótipo"
+      ]
+    }
+  ],
+  "suggestions": [],
+  "translations_cache": [
+    {
+      "cache_key": "tag::identidade::en",
+      "situation_id": "identidade",
+      "language": "en",
+      "translations": {
+        "label": "IDENTITY"
+      },
+      "created_at": "2026-05-21T10:19:58.929Z"
+    },
+    {
+      "cache_key": "tag::comunicação::en",
+      "situation_id": "comunicação",
+      "language": "en",
+      "translations": {
+        "label": "COMMUNICATION"
+      },
+      "created_at": "2026-05-21T10:19:59.041Z"
+    },
+    {
+      "cache_key": "tag::fronteiras::en",
+      "situation_id": "fronteiras",
+      "language": "en",
+      "translations": {
+        "label": "BORDERS"
+      },
+      "created_at": "2026-05-21T10:19:59.095Z"
+    },
+    {
+      "cache_key": "tag::trabalho::en",
+      "situation_id": "trabalho",
+      "language": "en",
+      "translations": {
+        "label": "WORK"
+      },
+      "created_at": "2026-05-21T10:19:59.439Z"
+    },
+    {
+      "cache_key": "tag::rejeição::en",
+      "situation_id": "rejeição",
+      "language": "en",
+      "translations": {
+        "label": "REJECTION"
+      },
+      "created_at": "2026-05-21T10:19:59.610Z"
+    },
+    {
+      "cache_key": "tag::humor::en",
+      "situation_id": "humor",
+      "language": "en",
+      "translations": {
+        "label": "HUMOR"
+      },
+      "created_at": "2026-05-21T10:19:59.727Z"
+    },
+    {
+      "cache_key": "tag::reunião::en",
+      "situation_id": "reunião",
+      "language": "en",
+      "translations": {
+        "label": "MEETING"
+      },
+      "created_at": "2026-05-21T10:20:00.260Z"
+    },
+    {
+      "cache_key": "42410c2e-d6b6-430d-984d-7ba05b31e78b_en",
+      "situation_id": "42410c2e-d6b6-430d-984d-7ba05b31e78b",
+      "language": "en",
+      "translations": {
+        "trigger": "You were hired because of quotas",
+        "educadora": "I was hired for my qualifications. Diversity policies correct historical inequalities.",
+        "sarcastica": "Yes, the competence quota. Very exclusive.",
+        "assertiva": "I was hired on merit. That comment is offensive.",
+        "sem_filtro": "And why exactly were you hired?",
+        "notas": "Minimizing the competence of women or minorities."
+      },
+      "created_at": "2026-05-21T10:20:01.212Z"
+    },
+    {
+      "cache_key": "c40941dc-e984-4b4e-9434-3c803ef4c3a8_en",
+      "situation_id": "c40941dc-e984-4b4e-9434-3c803ef4c3a8",
+      "language": "en",
+      "translations": {
+        "trigger": "That's a man's thing",
+        "educadora": "Interests and skills don't have a gender. Anyone can like whatever they want.",
+        "sarcastica": "Let me check... I can't seem to find the manual that says that.",
+        "assertiva": "It's my thing. And I enjoy it.",
+        "sem_filtro": "It's for whoever wants to do it. And I want to.",
+        "notas": "Gender-based limitation of interests."
+      },
+      "created_at": "2026-05-21T10:20:02.432Z"
+    },
+    {
+      "cache_key": "tag::respeito::en",
+      "situation_id": "respeito",
+      "language": "en",
+      "translations": {
+        "label": "RESPECT"
+      },
+      "created_at": "2026-05-21T10:21:36.215Z"
+    },
+    {
+      "cache_key": "tag::família::en",
+      "situation_id": "família",
+      "language": "en",
+      "translations": {
+        "label": "FAMILY"
+      },
+      "created_at": "2026-05-21T10:21:36.388Z"
+    },
+    {
+      "cache_key": "tag::carreira::en",
+      "situation_id": "carreira",
+      "language": "en",
+      "translations": {
+        "label": "CAREER"
+      },
+      "created_at": "2026-05-21T10:21:36.618Z"
+    },
+    {
+      "cache_key": "tag::condenscendência::en",
+      "situation_id": "condenscendência",
+      "language": "en",
+      "translations": {
+        "label": "CONDESCENSION"
+      },
+      "created_at": "2026-05-21T10:21:36.672Z"
+    },
+    {
+      "cache_key": "tag::autoria::en",
+      "situation_id": "autoria",
+      "language": "en",
+      "translations": {
+        "label": "AUTHORSHIP"
+      },
+      "created_at": "2026-05-21T10:21:36.957Z"
+    },
+    {
+      "cache_key": "tag::rua::en",
+      "situation_id": "rua",
+      "language": "en",
+      "translations": {
+        "label": "STREET"
+      },
+      "created_at": "2026-05-21T10:21:36.958Z"
+    },
+    {
+      "cache_key": "tag::roupa::en",
+      "situation_id": "roupa",
+      "language": "en",
+      "translations": {
+        "label": "CLOTHING"
+      },
+      "created_at": "2026-05-21T10:21:37.188Z"
+    },
+    {
+      "cache_key": "tag::capacidade::en",
+      "situation_id": "capacidade",
+      "language": "en",
+      "translations": {
+        "label": "CAPACITY"
+      },
+      "created_at": "2026-05-21T10:21:37.246Z"
+    },
+    {
+      "cache_key": "db51f89a-5c56-4815-ad12-d36951a325ec_en",
+      "situation_id": "db51f89a-5c56-4815-ad12-d36951a325ec",
+      "language": "en",
+      "translations": {
+        "trigger": "Where do you live?",
+        "educadora": "I do not share personal information with strangers.",
+        "sarcastica": "On Earth. And you, what planet are you from?",
+        "assertiva": "That is none of your business. Excuse me.",
+        "sem_filtro": "Far away from you. Goodbye.",
+        "notas": "Never share your location with strangers. Prioritize offline safety."
+      },
+      "created_at": "2026-05-21T10:21:39.033Z"
+    },
+    {
+      "cache_key": "3c21bc82-1f70-4ea5-b072-34782a7ebfbb_en",
+      "situation_id": "3c21bc82-1f70-4ea5-b072-34782a7ebfbb",
+      "language": "en",
+      "translations": {
+        "trigger": "It was just a joke",
+        "educadora": "Jokes also have a real impact on people. Humor can perpetuate harmful stereotypes.",
+        "sarcastica": "Yeah, hilarious... Have you considered stand-up? Audiences just love jokes at other people's expense.",
+        "assertiva": "I didn't find that funny at all. Please don't repeat it.",
+        "sem_filtro": "If that's humor, it's pretty weak. Get some new material.",
+        "notas": "Common response used to downplay offensive comments."
+      },
+      "created_at": "2026-05-21T10:33:58.231Z"
+    },
+    {
+      "cache_key": "cd95da1c-3bb3-4a59-9685-00365a3a6521_en",
+      "situation_id": "cd95da1c-3bb3-4a59-9685-00365a3a6521",
+      "language": "en",
+      "translations": {
+        "trigger": "Constant interruption",
+        "educadora": "I would like to finish my train of thought before taking any input. Communication is much more effective that way.",
+        "sarcastica": "I promise I'll take questions at the end. Patience is a virtue.",
+        "assertiva": "I'm not finished yet. Please let me finish.",
+        "sem_filtro": "If you actually let me speak, maybe you'll be able to follow my train of thought.",
+        "notas": "Common in meetings when women are interrupted."
+      },
+      "created_at": "2026-05-21T10:33:58.798Z"
+    },
+    {
+      "cache_key": "920e9c47-4911-4c48-ba7a-1c0afab2a635_en",
+      "situation_id": "920e9c47-4911-4c48-ba7a-1c0afab2a635",
+      "language": "en",
+      "translations": {
+        "trigger": "Is it that time of the month?",
+        "educadora": "A menstrual cycle does not invalidate professional emotions or opinions. It is an inappropriate question.",
+        "sarcastica": "No, I'm just on that day where I don't tolerate comments like this.",
+        "assertiva": "That is irrelevant and inappropriate. Do not repeat it.",
+        "sem_filtro": "That is none of your business. Ever.",
+        "notas": "Used to devalue women's opinions in the workplace."
+      },
+      "created_at": "2026-05-21T10:34:00.291Z"
+    }
+  ],
+  "copy_events": [],
+  "feedback_events": [],
+  "subscriptions": [],
+  "stories": [
+    {
+      "id": "story-1",
+      "title": "Fui interrompida repetidamente em reunião de tecnologia",
+      "content": "Hoje em uma planning técnica de arquitetura de software, apresentei um plano completo de microsserviços. Um colega de equipe sênior me interrompeu 4 vezes nos primeiros 5 minutos para explicar a mesma coisa usando outras palavras. Respirei fundo e disse de forma firme: 'Obrigada por reforçar meu ponto de vista, por favor me permita concluir a apresentação e depois abrimos para dúvidas.' Ele se calou. O apoio visual das estratégias me deu coragem!",
+      "category": "Profissional",
+      "author": "Camila S.",
+      "date": "2026-05-21T08:32:23.381Z",
+      "solidarityCount": 15,
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "comments": [
+        {
+          "id": "comm-1",
+          "author": "Fernanda Medeiros",
+          "text": "Incrível atitude, Camila! Manterrupting é o que mais sofremos em TI. Usar essa postura assertiva corta o comportamento na hora. Força!",
+          "timestamp": "2026-05-21T09:02:23.381Z"
+        },
+        {
+          "id": "comm-2",
+          "author": "Anônima",
+          "text": "Você foi gigante! O segredo é exatamente esse: retomar o controle sem pedir desculpas ou soar reativa.",
+          "timestamp": "2026-05-21T09:32:18.381Z"
+        }
+      ]
+    },
+    {
+      "id": "story-2",
+      "title": "Cantada invasiva e importunação no metrô de São Paulo",
+      "content": "No caminho de volta da faculdade ontem à noite, um estranho sentou muito perto no vagão vazio e fez comentários vulgares sobre a minha roupa. Em vez de congelar ou me encolher, decidi levantar, encará-lo e gritar alto para o vagão ouvir: 'Afaste-se e respeite meu espaço! Isso é assédio!'. Duas pessoas que estavam no vagão se aproximaram de mim na mesma hora e o sujeito desceu tenso na estação seguinte. A união das mulheres salva vidas.",
+      "category": "Rua / Transporte",
+      "author": "EstudanteAnônima",
+      "date": "2026-05-20T22:32:23.381Z",
+      "solidarityCount": 38,
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "comments": [
+        {
+          "id": "comm-3",
+          "author": "Mariana Costa",
+          "text": "Espetacular! Chamar a atenção das pessoas ao redor desconstrói totalmente a impunidade que esses covardes acham que têm no transporte público.",
+          "timestamp": "2026-05-20T23:32:23.381Z"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "title": "Chauvinism disguised as joke at family dinner",
+      "content": "During a family get-together, an uncle said a highly sexist joke about wives being 'house managers who should only cook'. I didn't laugh and simply replied: 'I don't get the punchline, uncle. Can you explain why it is funny to reduce women like that?' The room went completely silent and he looked deeply embarrassed. Setting simple conversational traps works like magic!",
+      "category": "Social",
+      "author": "Clara_Insight",
+      "date": "2026-05-20T10:32:23.381Z",
+      "solidarityCount": 29,
+      "comments": [
+        {
+          "id": "comm-4",
+          "author": "Julia Rosa",
+          "text": "This is the BEST method! Asking them to explain the joke strips away all the humor and forces them to face their own bias in public. Bravo!",
+          "timestamp": "2026-05-20T14:32:23.381Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "node-domexception-shim",
+  "version": "1.0.0",
+  "description": "A clean, non-deprecated shim for node-domexception utilizing native globalThis.DOMException",
+  "main": "index.js",
+  "type": "commonjs"
+}
