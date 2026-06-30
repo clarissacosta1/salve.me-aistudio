@@ -16,12 +16,12 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
 
       - name: Install Dependencies
         run: |
-          rm -f package-lock.json
           npm install
+          npm install --no-save @tailwindcss/oxide-linux-x64-gnu
 
       - name: Build Web Assets
         run: npm run build:mobile
